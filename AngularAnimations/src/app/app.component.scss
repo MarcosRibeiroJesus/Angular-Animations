@@ -1,0 +1,32 @@
+button {
+  outline: 0;
+}
+
+.zippy {
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  max-width: 410px;
+}
+
+.zippy-heading {
+  font-weight: bold;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.zippy-body {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.expanded {
+  background: #f0f0f0;
+}
+
+.glyphicon {
+  float: right;
+}
+
+.left {
+  float: right;
+}
